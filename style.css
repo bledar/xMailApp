@@ -1,0 +1,38 @@
+html body {
+    margin: 0;
+    padding: 0;
+    color: #444;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    font-size: 1em;
+	background-color: #ddd;
+}
+.njoftim{
+	width: 300px;
+	margin:10px auto;
+	background-color: #FCC9A3;
+	padding: 20px;
+	
+}
+
+.forma{
+	width: 300px;
+	margin: auto;
+	background-color: #fff;
+	padding: 20px;
+	
+}
+.forma input , .forma textarea{
+	margin: 10px auto;
+	width: 280px;
+	display: block;
+	padding: 10px;
+}
+.forma input[type='submit']{
+	font-size: 2em;
+	background-color: #4B9279;
+
+}
+.forma h1{
+	text-align: center;
+}
